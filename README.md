@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bookbot2019
+- 👀 I’m interested in computers, proramming, spaceflight, and various card games.
+- 🌱 I’m currently learning Python in preperation for college.
+- 💞️ I’m looking to collaborate on whatever interests me.
+- 📫 How to reach me ...
