@@ -2,4 +2,4 @@
 - 👀 I’m interested in computers, proramming, spaceflight, and various card games.
 - 🌱 I’m currently learning Python in preperation for college.
 - 💞️ I’m looking to collaborate on whatever interests me.
-- 📫 How to reach me ...
+- 📫 How to reach me: You can email me at bookbot2019@tutanota.com
